@@ -1,0 +1,189 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<Footer /> renders the <Footer /> with populated data 1`] = `
+<div
+  class="footer__Container-eh6b4z-0 isRyWX"
+>
+   
+  <p
+    class="footer__Title-eh6b4z-4 donNTi"
+  >
+     
+    Questions? Call 1-844-505-2993
+     
+  </p>
+  <div
+    class="footer__Break-eh6b4z-5 kjZvle"
+  >
+     
+     
+  </div>
+  <div
+    class="footer__Row-eh6b4z-2 YjnbY"
+  >
+     
+    <div
+      class="footer__Column-eh6b4z-1 bEygbH"
+    >
+       
+      <a
+        class="footer__Link-eh6b4z-3 emDmmw"
+        href="#"
+      >
+         
+        FAQ
+         
+      </a>
+      <a
+        class="footer__Link-eh6b4z-3 emDmmw"
+        href="#"
+      >
+         
+        Investor Relations
+         
+      </a>
+      <a
+        class="footer__Link-eh6b4z-3 emDmmw"
+        href="#"
+      >
+         
+        Ways to Watch
+         
+      </a>
+      <a
+        class="footer__Link-eh6b4z-3 emDmmw"
+        href="#"
+      >
+         
+        Corporate Information
+         
+      </a>
+      <a
+        class="footer__Link-eh6b4z-3 emDmmw"
+        href="#"
+      >
+         
+        Netflix Originals
+         
+      </a>
+       
+    </div>
+    <div
+      class="footer__Column-eh6b4z-1 bEygbH"
+    >
+       
+      <a
+        class="footer__Link-eh6b4z-3 emDmmw"
+        href="#"
+      >
+         
+        Help Centre
+         
+      </a>
+      <a
+        class="footer__Link-eh6b4z-3 emDmmw"
+        href="#"
+      >
+         
+        Jobs
+         
+      </a>
+      <a
+        class="footer__Link-eh6b4z-3 emDmmw"
+        href="#"
+      >
+         
+        Terms of Use
+         
+      </a>
+      <a
+        class="footer__Link-eh6b4z-3 emDmmw"
+        href="#"
+      >
+         
+        Contact Us
+         
+      </a>
+       
+    </div>
+    <div
+      class="footer__Column-eh6b4z-1 bEygbH"
+    >
+       
+      <a
+        class="footer__Link-eh6b4z-3 emDmmw"
+        href="#"
+      >
+         
+        Account
+         
+      </a>
+      <a
+        class="footer__Link-eh6b4z-3 emDmmw"
+        href="#"
+      >
+         
+        Redeem gift cards
+         
+      </a>
+      <a
+        class="footer__Link-eh6b4z-3 emDmmw"
+        href="#"
+      >
+         
+        Privacy
+         
+      </a>
+      <a
+        class="footer__Link-eh6b4z-3 emDmmw"
+        href="#"
+      >
+         
+        Speed Test
+         
+      </a>
+       
+    </div>
+    <div
+      class="footer__Column-eh6b4z-1 bEygbH"
+    >
+       
+      <a
+        class="footer__Link-eh6b4z-3 emDmmw"
+        href="#"
+      >
+         
+        Media Centre
+         
+      </a>
+      <a
+        class="footer__Link-eh6b4z-3 emDmmw"
+        href="#"
+      >
+         
+        Buy gift cards
+         
+      </a>
+      <a
+        class="footer__Link-eh6b4z-3 emDmmw"
+        href="#"
+      >
+         
+        Cookie Preferences
+         
+      </a>
+      <a
+        class="footer__Link-eh6b4z-3 emDmmw"
+        href="#"
+      >
+         
+        Legal Notices
+         
+      </a>
+       
+    </div>
+     
+  </div>
+   
+</div>
+`;
