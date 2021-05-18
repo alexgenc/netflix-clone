@@ -12,6 +12,7 @@ Live Demo: https://condemned-experience.surge.sh/
 ## Features
 - Sign Up
 - Sign In
+- Log Out
 - Default Netflix Home Page (for non-logged in users)
 - Browse Page (for logged in users)
 - Search
