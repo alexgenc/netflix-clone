@@ -5,7 +5,7 @@ This project is mimicking the famous [Netflix](https://www.netflix.com/) web app
 
 This application was built with the purpose of using some technologies I have not used before, including fireabase/firestore and firebase/auth. It was also the first time I used compound components pattern on an app of this size!
 
-Live Demo: https://condemned-experience.surge.sh/
+[Live Demo](https://alexgenc-netflixclone.netlify.app/)
 
 ![Browse Page](https://i.postimg.cc/j5mdj77F/Capture.jpg)
 
@@ -47,3 +47,9 @@ netflix-clone/
 ### Testing
 All tests can be found in `__tests__` folder. 
 - Testing Coverage: 92%
+
+## Contact
+
+Alex Genc - alexgenc@gmail.com - [Linkedin](https://www.linkedin.com/in/alexgenc/)
+
+Please let me know if you find any bugs!
