@@ -9,6 +9,10 @@ This application was built with the purpose of using some technologies I have no
 
 ![Browse Page](https://i.postimg.cc/j5mdj77F/Capture.jpg)
 
+Demo User Account:
+- email: testuser@test.com
+- password: password
+
 ## Features
 - Sign Up
 - Sign In
